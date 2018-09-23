@@ -19,3 +19,7 @@
 **Capsule Networks :-**
 
 ![](https://github.com/Puneet2000/GANs/blob/master/samples/CAPSNET/output.png)
+
+**Character RNN Name Classification :-**
+
+![](https://github.com/Puneet2000/GANs/blob/master/samples/rnnName.png)
