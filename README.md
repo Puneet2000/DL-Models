@@ -14,7 +14,7 @@
 
 **Denoising Autoencoder :-**
 
-![](https://github.com/Puneet2000/GANs/blob/master/samples/DAE/output.png)
+![](https://github.com/Puneet2000/GANs/blob/master/samples/DAE/fiNAL.png)
 
 **Capsule Networks :-**
 
