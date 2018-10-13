@@ -35,3 +35,8 @@
 ![](https://github.com/Puneet2000/GANs/blob/master/samples/Segmentation/paris.jpg)
 ![](https://github.com/Puneet2000/GANs/blob/master/samples/Segmentation/grain.jpg)
 ![](https://github.com/Puneet2000/GANs/blob/master/samples/Segmentation/beach.jpg)
+
+**Pixel CNN on MNIST :-**
+
+![](https://github.com/Puneet2000/GANs/blob/master/samples/pixelCNN/sample.png)
+
