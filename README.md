@@ -38,5 +38,5 @@
 
 **Pixel CNN on MNIST :-**
 
-![](https://github.com/Puneet2000/GANs/blob/master/samples/pixelCNN/sample.png)
+![](https://github.com/Puneet2000/GANs/blob/master/samples/PixelCNN/sample.png)
 
